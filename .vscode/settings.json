@@ -1,0 +1,5 @@
+{
+  "editor.tabSize": 2,
+  "css.lint.propertyIgnoredDueToDisplay": "ignore",
+  "svelte.plugin.css.globals": "src/css/variables.css"
+}
